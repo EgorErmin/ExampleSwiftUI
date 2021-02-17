@@ -1,0 +1,29 @@
+PODS:
+  - YandexMobileAds (3.4.0):
+    - YandexMobileAds/Static (= 3.4.0)
+  - YandexMobileAds/Static (3.4.0):
+    - YandexMobileMetrica (< 4.0.0, >= 3.2.0)
+  - YandexMobileMetrica (3.14.1):
+    - YandexMobileMetrica/Static (= 3.14.1)
+  - YandexMobileMetrica/Static (3.14.1):
+    - YandexMobileMetrica/Static/Core (= 3.14.1)
+    - YandexMobileMetrica/Static/Crashes (= 3.14.1)
+  - YandexMobileMetrica/Static/Core (3.14.1)
+  - YandexMobileMetrica/Static/Crashes (3.14.1):
+    - YandexMobileMetrica/Static/Core
+
+DEPENDENCIES:
+  - YandexMobileAds
+
+SPEC REPOS:
+  trunk:
+    - YandexMobileAds
+    - YandexMobileMetrica
+
+SPEC CHECKSUMS:
+  YandexMobileAds: 5a22616824fb108e19e521a9051f6393e2c92b9d
+  YandexMobileMetrica: 072fc59d216c8824d83d1d54bdc6e96d9cfcc59c
+
+PODFILE CHECKSUM: 635f9447b748cb0f4e765e304f5982eea1a8aa32
+
+COCOAPODS: 1.10.1

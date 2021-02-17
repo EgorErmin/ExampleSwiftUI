@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Рекомендуем",
+        "description": "Выбор редакции",
+        "radios":
+        [
+            {
+                "name": "Deep Atmospherek",
+                "imageName": "first"
+            },
+            {
+                "name": "Melon Radio - Deeper",
+                "imageName": "second"
+            },
+            {
+                "name": "URALSOUND FM | SUMMER",
+                "imageName": "third"
+            },
+            {
+                "name": "Tequila Radio",
+                "imageName": "fourth"
+            },
+            {
+                "name": "Sound Park Deep",
+                "imageName": "fifth"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Новинки",
+        "description": "Недавно добавленные",
+        "radios":
+        [
+            {
+                "name": "Deep Atmospherek",
+                "imageName": "first"
+            },
+            {
+                "name": "Melon Radio - Deeper",
+                "imageName": "second"
+            },
+            {
+                "name": "URALSOUND FM | SUMMER",
+                "imageName": "third"
+            },
+            {
+                "name": "Tequila Radio",
+                "imageName": "fourth"
+            },
+            {
+                "name": "Sound Park Deep",
+                "imageName": "fifth"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Популярное",
+        "description": "Самые прослушиваемые станции",
+        "radios":
+        [
+            {
+                "name": "Deep Atmospherek",
+                "imageName": "first"
+            },
+            {
+                "name": "Melon Radio - Deeper",
+                "imageName": "second"
+            },
+            {
+                "name": "URALSOUND FM | SUMMER",
+                "imageName": "third"
+            },
+            {
+                "name": "Tequila Radio",
+                "imageName": "fourth"
+            },
+            {
+                "name": "Sound Park Deep",
+                "imageName": "fifth"
+            }
+        ]
+    }
+]

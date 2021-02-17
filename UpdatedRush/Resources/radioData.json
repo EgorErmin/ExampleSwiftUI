@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Deep Atmospherek",
+        "tags":
+        [
+            {
+                "name": "Deep"
+            },
+            {
+                "name": "House"
+            }
+        ],
+        "location": "США, Торонто",
+        "rating": 4,
+        "views": 287,
+        "imageName": "first"
+    },
+    {
+        "id": 2,
+        "name": "Melon Radio - Deeper",
+        "tags":
+        [
+            {
+                "name": "Deep"
+            },
+            {
+                "name": "Lounge"
+            },
+            {
+                "name": "Chillout"
+            }
+        ],
+        "location": "США, Нью-Йорк",
+        "rating": 4,
+        "views": 34,
+        "imageName": "second"
+    },
+    {
+        "id": 3,
+        "name": "URALSOUND FM | SUMMER",
+        "tags":
+        [
+            {
+                "name": "Deep"
+            },
+            {
+                "name": "House"
+            }
+        ],
+        "location": "Россия, Екатеринбург",
+        "rating": 0,
+        "views": 134,
+        "imageName": "third"
+    },
+    {
+        "id": 4,
+        "name": "Tequila Radio",
+        "tags":
+        [
+            {
+                "name": "Deep"
+            },
+            {
+                "name": "House"
+            }
+        ],
+        "location": "Россия, Екатеринбург",
+        "rating": 5,
+        "views": 11324,
+        "imageName": "fourth"
+    },
+    {
+        "id": 5,
+        "name": "Sound Park Deep",
+        "tags":
+        [
+            {
+                "name": "Deep"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Chillout"
+            }
+        ],
+        "location": "Россия, Екатеринбург",
+        "rating": 1,
+        "views": 5020,
+        "imageName": "fifth"
+    }
+]
